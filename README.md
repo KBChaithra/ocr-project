@@ -22,4 +22,4 @@ This Jupyter Notebook demonstrates how to perform Optical Character Recognition 
 
    ```bash
    git clone https://github.com/KBChaithra/ocr-project.git
-   cd tesseract-ocr-project
+   cd ocr-project
