@@ -21,5 +21,5 @@ This Jupyter Notebook demonstrates how to perform Optical Character Recognition 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/tesseract-ocr-project.git
+   git clone https://github.com/KBChaithra/ocr-project.git
    cd tesseract-ocr-project
